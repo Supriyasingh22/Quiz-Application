@@ -28,10 +28,8 @@ Welcome to the GUI-Based Quiz Application in Java using Swing and AWT! This appl
 ## How to Run
 - Open a terminal or command prompt.
 - Navigate to the directory containing the Java source files.
-- Compile the source files using the following command:
-- javac Login.java Quiz.java Rules.java Rules1.java Score.java
-- Run the Login class to start the quiz application:
-- java Login
+- Compile the source files using the following command:javac Login.java Quiz.java Rules.java Rules1.java Score.java
+- Run the Login class to start the quiz application: java Login
 - Enter your name to begin the quiz.
 - Answer the questions one by one, using the timer to keep you on your toes.
 - For questions with a "Hint" button, use it wisely to make informed choices.
