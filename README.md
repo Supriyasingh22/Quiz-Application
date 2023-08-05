@@ -5,8 +5,8 @@ Welcome to the GUI-Based Quiz Application in Java using Swing and AWT! This appl
 ## Table of Contents
 
 - [Features](#features)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+-[Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
